@@ -963,3 +963,255 @@ a. Frequenza respiratoria
 b. Gruppo sanguigno
 c. Altezza
 d. Colore degli occhi
+
+2) Quale definizione descrive meglio lo shock?
+a. Uno stato di inadeguata perfusione dei tessuti dovuto ad un calo pressorio repentino
+b. Una riduzione della pressione arteriosa sistolica sotto i 90 mmHg, indipendentemente dallo stato di perfusione
+c. Una reazione psicologica acuta a un evento molto stressante, con pallore e sensazione di svenimento
+d. Un arresto improvviso dell'attività elettrica del cuore con perdita di coscienza
+
+2) Quale tra queste coppie associa correttamente tipo di shock e causa?
+a. Cardiogeno - infarto esteso del miocardio
+b. Ipovolemico - sepsi da infezione delle vie urinarie
+c. Distributivo - disidratazione grave da vomito e diarrea
+d. Ostruttivo - perdita di liquidi per ustioni estese
+
+2) Un paziente in shock ipovolemico è cosciente, respira regolarmente e non ha dispnea. Quale posizione è appropriata?
+a. Supino, con gli arti inferiori sollevati
+b. Seduto, con le gambe pendenti
+c. Semiseduto a 45 gradi, con il torace sollevato
+d. Prono, per ridurre il consumo di ossigeno
+
+2) Un paziente con shock cardiogeno ha dispnea intensa, PA 85/60 e rantoli diffusi. Quale posizione è più appropriata?
+a. Seduto o semiseduto, se tollerato
+b. Supino, con le gambe sollevate
+c. Laterale di sicurezza sul lato sinistro
+d. Supino piatto, con il capo leggermente flesso
+
+2) Quale gruppo di interventi è appropriato in un paziente in shock?
+a. Ossigeno ad alti flussi, prevenire la dispersione di calore, nulla per bocca, trasporto rapido con monitoraggio
+b. Bevande zuccherate per bocca per sostenere la pressione, ossigeno a basso flusso e osservazione sul posto
+c. Ossigeno a basso flusso, bevande a piccoli sorsi per reidratare e trasporto senza particolare urgenza
+d. Posizione seduta in ogni caso e attesa dell'arrivo del mezzo avanzato prima di qualsiasi intervento
+
+2/15) Quale quadro è più tipico delle prime fasi di uno shock settico?
+a. Febbre, tachicardia, tachipnea, cute calda e arrossata, possibile confusione
+b. Ipotermia, bradicardia e cute pallida e fredda fin dall'esordio
+c. Cute pallida e sudata con dolore oppressivo al torace
+d. Orticaria diffusa con gonfiore delle labbra e stridore
+
+15) Un anziano ha confusione di nuova insorgenza, FR 24 e PA 95/60 dopo due giorni di bruciore urinario. Quale sospetto è più appropriato?
+a. Sepsi di origine urinaria
+b. Semplice disidratazione, da gestire senza particolare urgenza
+c. Normale evoluzione di una cistite non complicata
+d. Ictus ischemico, per la presenza di confusione
+
+2) Quale tra queste condizioni è una causa tipica di shock ostruttivo?
+a. Embolia polmonare massiva
+b. Infarto miocardico esteso
+c. Sepsi da polmonite
+d. Disidratazione grave da diarrea
+
+3/7) Dopo la puntura di una vespa, un paziente allergico ha orticaria diffusa, stridore e PA 80/50. Qual è la priorità?
+a. Riconoscere l'anafilassi, allertare subito la Centrale e, secondo le sue indicazioni, assistere l'uso dell'autoiniettore di adrenalina se disponibile
+b. Applicare ghiaccio sulla sede della puntura e attendere la riduzione del gonfiore
+c. Iniettare epipen celermente e rivalutare dopo 5 minuti
+d. Metterlo seduto e osservare l'evoluzione dei sintomi prima di chiamare
+
+9) Quale tra queste è una funzione del fegato?
+a. Produzione di bile e proteine
+b. Produzione di insulina e glucagone
+c. Produzione di succo gastrico acido
+d. Riassorbimento dell'acqua dalle feci
+
+9) Quali funzioni svolge il pancreas?
+a. Esocrina (enzimi digestivi) ed endocrina (insulina e glucagone)
+b. Solo esocrina, con produzione di bile e di enzimi
+c. Solo endocrina, con produzione di insulina e di enzimi gastrici
+d. Esocrina (bile) ed endocrina (adrenalina)
+
+9/15) Quale quadro indica più probabilmente una peritonite?
+a. Dolore addominale intenso, addome rigido "a tavola", paziente immobile che evita ogni movimento
+b. Dolore colico ondulante, con paziente molto agitato che cambia continuamente posizione
+c. Dolore epigastrico che compare dopo i pasti e migliora camminando
+d. Dolore diffuso lieve con diarrea e addome morbido e trattabile
+
+9) Un giovane ha dolore che inizia attorno all'ombelico e dopo alcune ore si sposta in fossa iliaca destra, con nausea e febbricola. Quale sospetto è più appropriato?
+a. Appendicite acuta
+b. Colica biliare
+c. Pancreatite acuta
+d. Perforazione di un'ulcera duodenale
+
+9) Una donna di 40 anni ha un dolore intenso all'ipocondrio destro dopo un pasto abbondante e grasso, irradiato alla spalla destra, con nausea. Quale sospetto è più appropriato?
+a. Colica biliare
+b. Appendicite acuta
+c. Colica renale destra
+d. Infarto miocardico anteriore
+
+9) Un uomo con abuso di alcol ha un dolore epigastrico trafittivo "a barra", irradiato al dorso, con vomito. Quale sospetto è più appropriato?
+a. Pancreatite acuta
+b. Appendicite acuta
+c. Colica renale
+d. Gastroenterite virale
+
+9) Un paziente in terapia cronica con FANS ha un dolore epigastrico improvviso "a coltellata" e un addome rigido. Quale evento è più probabile?
+a. Perforazione di un'ulcera gastrica o duodenale
+b. Colica biliare non complicata
+c. Gastroenterite virale
+d. Appendicite non ancora complicata
+
+9) Qual è la differenza tra ematemesi e melena?
+a. L'ematemesi è il vomito di sangue; la melena è l'emissione di feci nere, picee e maleodoranti per sangue digerito
+b. L'ematemesi è l'emissione di sangue rosso vivo dal retto; la melena è il vomito di sangue
+c. Sono sinonimi e indicano sempre un sanguinamento dell'intestino crasso
+d. La melena è il vomito con tracce di sangue; l'ematemesi è la presenza di sangue nelle urine
+
+9) Un paziente ha feci nere e picee, vertigini al passaggio in piedi e FC 110. Qual è la valutazione più appropriata?
+a. Sospetto di sanguinamento digestivo con possibile ipovolemia: allertare la Centrale, ossigeno, nulla per bocca, monitoraggio
+b. Quadro tipico della stipsi: consigliare idratazione e riposo
+c. Reazione a farmaci a base di ferro, che non richiede approfondimenti urgenti
+d. Emorroidi sanguinanti: consigliare una visita ambulatoriale
+
+3/12) Un paziente con vomito ripetuto è sonnolento e fatica a proteggere le vie aeree. Cosa si fa?
+a. Lo si pone in posizione laterale di sicurezza, se non controindicata, tenendo pronta l'aspirazione e allertando la Centrale
+b. Lo si pone supino piatto per facilitare la valutazione dell'addome
+c. Gli si fa bere acqua a piccoli sorsi per ridurre il vomito
+d. Lo si pone seduto con il capo flesso in avanti e si attende
+
+9) In un paziente con dolore addominale acuto, quale comportamento è appropriato?
+a. Lasciare che assuma la posizione antalgica, non dare nulla per bocca, monitorare i parametri e informare la Centrale
+b. Somministrare un analgesico da banco per ridurre il dolore prima dell'arrivo del mezzo
+c. Applicare una borsa calda sull'addome per ridurre il dolore
+d. Far bere acqua zuccherata a piccoli sorsi per prevenire la disidratazione
+
+2) Un uomo di 62 anni con diabete e ipertensione riferisce "mal di stomaco", nausea e sudorazione fredda. Cosa è prudente considerare?
+a. Che possa trattarsi di un infarto miocardico con presentazione atipica
+b. Che si tratti con certezza di un disturbo gastrico, per la sede del dolore
+c. Che si tratti di una colica biliare, da gestire con la sola osservazione
+d. Che si tratti di un attacco d'ansia, da gestire rassicurando il paziente
+
+10) Un anziano in terapia con diuretici ha vomito e diarrea profusi da due giorni. Quale rischio è più importante?
+a. Disidratazione con ipovolemia
+b. Esclusivamente un aumento della pressione arteriosa
+c. Ipertermia causata dalla disidratazione
+d. Perdita di peso
+
+10) Quale tra queste NON è una funzione del rene?
+a. Produzione di insulina
+b. Regolazione di liquidi 
+c. Produzione di elettroliti
+d. Eliminazione di scorie azotate
+
+10) Quale quadro è tipico di una colica renale?
+a. Dolore lancinante al fianco irradiato verso inguine e genitali, con paziente agitato che non trova posizione
+b. Dolore sordo e continuo con paziente immobile e addome rigido
+c. Dolore oppressivo retrosternale con sudorazione
+d. Bruciore urinario con febbre alta e brividi, senza dolore al fianco
+
+10) Un uomo anziano non urina da 12 ore, ha un forte dolore sovrapubico e stimolo continuo a urinare. Quale condizione è più probabile?
+a. Ritenzione urinaria acuta
+b. Colica renale
+c. Poliuria psicogena
+d. Cistite non complicata
+
+10) Una donna ha febbre alta, brividi, dolore lombare e disuria. Quale sospetto è più appropriato?
+a. Pielonefrite
+b. Colica biliare
+c. Gastroenterite virale
+d. Cistite semplice
+
+10) Un giovane di 19 anni ha un improvviso dolore intenso a un testicolo con nausea. Qual è la valutazione più appropriata?
+a. Possibile torsione testicolare: emergenza chirurgica tempo-dipendente, da trasportare rapidamente
+b. Probabile infiammazione banale: si può attendere la visita del medico curante
+c. Probabile colica renale: si consiglia una borsa calda sulla zona
+d. Dolore di origine psicogena, frequente a questa età
+
+14) Una donna di 28 anni ha un dolore addominale basso improvviso, vertigini, pallore e ritardo mestruale. Quale ipotesi è fondamentale considerare?
+a. Gravidanza con complicanze
+b. Gastroenterite virale
+c. Colica renale
+d. Appendicite non complicata
+
+10) Un portatore di catetere vescicale ha deflusso nullo, dolore sovrapubico e febbre. Cosa si fa?
+a. Si segnala alla Centrale la possibile ostruzione o infezione, evitando di manipolare o rimuovere il catetere
+b. Si rimuove il catetere e se ne inserisce uno nuovo
+c. Si clampa il catetere per ridurre il dolore
+d. Si lava il catetere con acqua e lo si riposiziona
+
+8) Qual è la differenza essenziale tra diabete di tipo 1 e di tipo 2?
+a. Nel tipo 1 c'è carenza assoluta di insulina; nel tipo 2 prevale la resistenza all'insulina
+b. Nel tipo 1 c'è resistenza all'insulina; nel tipo 2 la carenza è assoluta
+c. Il tipo 1 compare solo dopo i 60 anni; il tipo 2 solo in età pediatrica
+d. Il tipo 1 non richiede mai insulina; il tipo 2 la richiede sempre
+
+8) A partire da quale valore di glicemia capillare si parla di ipoglicemia?
+a. Sotto i 70 mg/dL
+b. Sotto i 100 mg/dL
+c. Sotto i 50 mg/dL
+d. Sotto i 120 mg/dL
+
+8) Quale quadro è più tipico di una ipoglicemia?
+a. Esordio rapido, sudorazione fredda, tremori, tachicardia, fame, confusione
+b. Esordio lento in giorni, cute secca e calda, sete intensa, respiro profondo
+c. Esordio rapido con febbre alta e rigidità nucale
+d. Esordio lento con dolore addominale, ittero e feci chiare
+
+8) Quale quadro è più tipico di una chetoacidosi diabetica?
+a. Respiro profondo e rapido, alito acetonico, sete, poliuria, nausea e disidratazione
+b. Sudorazione fredda con tremori e fame improvvisa
+c. Respiro lento e superficiale con cute umida
+d. Cefalea e rigidità del collo con fotofobia
+
+8) Un diabetico in terapia insulinica è sveglio, confuso e collaborante, con glicemia 48 mg/dL. Cosa si fa?
+a. Si somministrano zuccheri semplici per bocca, si ricontrolla la glicemia e si informa la Centrale
+b. Si somministra insulina per correggere lo squilibrio metabolico
+c. Si attende qualche minuto per vedere se il quadro si risolve spontaneamente
+d. Gli si fa mangiare un pasto abbondante a base di grassi e proteine
+
+8) Un diabetico è incosciente con glicemia 40 mg/dL. Cosa NON si deve fare?
+a. Somministrare zucchero o liquidi per bocca
+b. Metterlo in posizione laterale di sicurezza se respira
+c. Allertare subito la Centrale
+d. Monitorare vie aeree e respiro
+
+8) Un uomo apparentemente "ubriaco", confuso e sudato, è noto per diabete. Qual è il primo accertamento utile?
+a. Chiedergli di misurarsi la glicemia capillare
+b. Misurare la temperatura corporea
+c. Valutare l'alito per escludere l'alcol come causa
+d. Misurare la pressione arteriosa a entrambe le braccia
+
+8) Quale fattore può scatenare un'ipoglicemia in un diabetico in terapia insulinica?
+a. Un pasto saltato o uno sforzo fisico intenso senza adeguato apporto di zuccheri
+b. Una dieta ricca di zuccheri semplici
+c. Un'infezione febbrile in corso
+d. Una dose di insulina dimenticata
+
+9) Il glucometro mostra la scritta HI. Cosa significa?
+a. La glicemia è sopra il limite massimo misurabile dallo strumento: va riferita come molto elevata
+b. Lo strumento ha la batteria scarica e non è utilizzabile
+c. La glicemia è nella norma
+d. La striscia reattiva è scaduta e la misura va ripetuta con una nuova
+
+10) Un paziente in emodialisi ha una fistola arterovenosa (FAV) all'avambraccio sinistro. Quale comportamento è corretto?
+a. Misurare la pressione ed eseguire eventuali accessi venosi sul braccio opposto
+b. Misurare la pressione sul braccio della fistola, per maggiore accuratezza
+c. Applicare un laccio emostatico alto sul braccio della fistola per reperire le vene
+d. Usare il polso radiale del braccio della fistola come unico riferimento per i parametri
+
+10) Un paziente dializzato ha saltato l'ultima seduta e ha dispnea, edemi e rantoli. Quale complicazione è più probabile?
+a. Sovraccarico di liquidi con edema polmonare acuto
+b. Disidratazione con ipovolemia
+c. Ipoglicemia da perdita di scorie
+d. Shock settico da dialisi
+
+10) Un paziente in emodialisi sanguina dal sito della FAV. Cosa si fa?
+a. Compressione diretta sul punto sanguinante con garza, evitando di stringere il braccio con lacci, e allertare subito la Centrale
+b. Applicazione di un laccio stretto a monte per interrompere completamente il flusso
+c. Applicazione di ghiaccio e attesa dell'arrivo del mezzo
+d. Sollevamento del braccio e attesa dell'arrivo del mezzo senza altre azioni
+
+10) Un paziente in dialisi peritoneale ha dolore addominale, febbre e liquido torbido nella sacca. Quale complicazione è più probabile?
+a. Peritonite
+b. Colica biliare
+c. Appendicite
+d. Ritenzione urinaria
