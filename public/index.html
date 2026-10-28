@@ -1,0 +1,84 @@
+<!doctype html>
+<html lang="it">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#14213d">
+<title>Quiz in aula</title>
+<meta name="description" content="Entra nel quiz: scrivi il tuo nome e rispondi dal telefono.">
+<meta property="og:title" content="Quiz in aula">
+<meta property="og:description" content="Entra nel quiz: scrivi il tuo nome e rispondi dal telefono.">
+<meta property="og:type" content="website">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="conn" class="conn" hidden>Connessione persa. Sto riprovando…</div>
+
+<main class="s-screen" id="app">
+
+  <section data-view="join" class="s-join">
+    <h1 class="s-logo">Quiz in aula</h1>
+    <form id="joinForm" autocomplete="off" novalidate>
+      <div id="codeRow" hidden>
+        <label class="lbl" for="codeInput">Codice della stanza</label>
+        <input id="codeInput" class="input input-code" inputmode="numeric" pattern="[0-9]*" maxlength="4" placeholder="0000">
+      </div>
+      <p id="roomNote" class="room-note" hidden></p>
+      <div>
+        <label class="lbl" for="nameInput">Come ti chiami?</label>
+        <input id="nameInput" class="input" maxlength="20" autocomplete="given-name" autocapitalize="words" placeholder="Per esempio: Maria R.">
+      </div>
+      <p id="joinNote" class="s-note" aria-live="polite" hidden>Mi collego alla stanza…</p>
+      <p id="joinErr" class="err" role="alert" hidden></p>
+      <button class="btn btn-primary btn-lg btn-block" id="joinBtn" type="submit">Entra</button>
+    </form>
+    <p class="s-teacher"><a href="host.html">Sei l’istruttore? Apri il pannello di controllo</a></p>
+  </section>
+
+  <section data-view="wait" class="s-center" hidden>
+    <div class="s-hello">Ciao <span id="helloName"></span>!</div>
+    <p class="s-big">Sei dentro. Aspetta che l’istruttore faccia partire il quiz.</p>
+    <p class="muted" id="waitCount"></p>
+  </section>
+
+  <section data-view="question" hidden>
+    <div class="s-bar"><span id="qNumLbl"></span><span id="qTimeLbl" class="s-time"></span></div>
+    <div class="timerbar" id="timerWrap"><i id="timerFill"></i></div>
+    <h2 id="qText" class="s-qtext" hidden></h2>
+    <p id="lookHint" class="s-look" hidden>Guarda lo schermo e tocca la lettera della risposta giusta.</p>
+    <div id="tiles"></div>
+    <p id="qStatus" class="s-status" aria-live="polite"></p>
+  </section>
+
+  <section data-view="reveal" class="s-reveal" hidden>
+    <div id="resIcon" aria-hidden="true"></div>
+    <h2 id="resTitle"></h2>
+    <p id="resPoints" class="s-points"></p>
+    <div id="resCorrect" class="res-correct"></div>
+    <p id="resRank" class="s-rank"></p>
+    <p class="muted">Aspetta la prossima domanda.</p>
+  </section>
+
+  <section data-view="final" class="s-reveal" hidden>
+    <h2>Quiz finito!</h2>
+    <div class="s-medal" id="finalRank"></div>
+    <p class="s-points" id="finalPoints"></p>
+    <p id="finalLine"></p>
+    <button class="btn" id="leaveBtn" type="button">Esci</button>
+  </section>
+
+  <section data-view="gone" class="s-center" hidden>
+    <h2 id="goneTitle">Il quiz è chiuso</h2>
+    <p id="goneText" class="s-big"></p>
+    <button class="btn btn-primary btn-lg" id="againBtn" type="button">Torna all’inizio</button>
+  </section>
+
+</main>
+
+<script src="config.js"></script>
+<script src="vendor/peerjs.min.js"></script>
+<script src="common.js"></script>
+<script src="p2p.js"></script>
+<script src="student.js"></script>
+</body>
+</html>

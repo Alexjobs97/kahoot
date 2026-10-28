@@ -1,0 +1,258 @@
+<!doctype html>
+<html lang="it">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="theme-color" content="#14213d">
+<title>Quiz in aula – istruttore</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="conn" class="conn" hidden>Connessione persa. Sto riprovando…</div>
+
+<header class="h-top" id="topbar" hidden>
+  <span class="h-brand">Quiz in aula</span>
+  <span class="h-title" id="topTitle"></span>
+  <span class="h-code" id="topCode" title="Codice della stanza"></span>
+  <button class="btn" id="topLb" type="button" hidden>Classifica</button>
+  <button class="btn btn-danger" id="topEnd" type="button" hidden>Termina quiz</button>
+</header>
+
+<main class="h-main">
+
+  <!-- Caricamento -->
+  <section data-hview="loading">
+    <p class="muted">Mi collego…</p>
+  </section>
+
+  <!-- Preparazione -->
+  <section data-hview="setup" hidden>
+    <h1>Prepara il quiz</h1>
+    <div class="h-setup">
+      <div class="stack">
+
+        <div class="panel">
+          <h2>Da dove prendo le domande?</h2>
+          <div class="seg" id="srcSeg">
+            <label><input type="radio" name="src" value="archive" checked><span>Archivio del sito</span></label>
+            <label><input type="radio" name="src" value="upload"><span>Carica un file mio</span></label>
+          </div>
+
+          <div id="srcArchive" class="src-block">
+            <p class="muted" id="archiveStatus">Carico l’archivio…</p>
+          </div>
+
+          <div id="srcUpload" class="src-block" hidden>
+            <label class="drop" id="drop">
+              <input type="file" id="fileInput" accept=".txt,text/plain">
+              <strong>Scegli il file .txt delle domande</strong>
+              <span class="muted">oppure trascinalo qui</span>
+            </label>
+            <p class="hint">
+              Ogni domanda inizia con il numero della categoria (per esempio <b>3)</b> oppure <b>3/12)</b>),
+              poi quattro righe <b>a. b. c. d.</b>. La risposta <b>a.</b> è sempre quella giusta:
+              sullo schermo l’ordine viene mescolato.
+              <a href="esempio-domande.txt" download>Scarica un file di esempio</a>.
+            </p>
+            <details>
+              <summary>Oppure incolla il testo</summary>
+              <textarea class="input" id="pasteArea" spellcheck="false" placeholder="3/12) Domanda&#10;a. risposta giusta&#10;b. sbagliata&#10;c. sbagliata&#10;d. sbagliata"></textarea>
+            </details>
+          </div>
+
+          <div class="report" id="parseReport" aria-live="polite"></div>
+        </div>
+
+        <div class="panel" id="selPanel" hidden>
+          <h2>Quali domande faccio?</h2>
+
+          <label class="lbl" for="countInput">Quante domande nel quiz</label>
+          <div class="count-ctl">
+            <button class="btn" id="countMinus" type="button" aria-label="Una domanda in meno">−</button>
+            <input class="input" id="countInput" type="number" inputmode="numeric" min="1" step="1">
+            <button class="btn" id="countPlus" type="button" aria-label="Una domanda in più">+</button>
+            <button class="btn btn-quiet" id="countAll" type="button">Tutte</button>
+          </div>
+
+          <div id="catBlock">
+            <div class="cat-head">
+              <h3 style="margin:0">Categorie</h3>
+              <button class="btn btn-quiet" id="catReset" type="button">Azzera le categorie</button>
+            </div>
+            <p class="hint">
+              Tocca una categoria per sceglierla, tocca ancora per escluderla, una terza volta per toglierla.
+              Se non ne scegli nessuna valgono tutte (tranne quelle escluse).
+              Una domanda con più categorie è valida se almeno una è scelta, ma sparisce se una è esclusa.
+            </p>
+            <div class="cats" id="cats"></div>
+          </div>
+
+          <p class="avail" id="availLine" aria-live="polite"></p>
+          <p class="err" id="selErr" role="alert" hidden></p>
+
+          <label class="switch rot">
+            <input type="checkbox" id="rotateChk" checked><span class="track"></span>
+            <span>Fai uscire per prime le domande uscite meno spesso</span>
+          </label>
+          <p class="hint" id="rotHint"></p>
+          <button class="btn btn-quiet" id="usageReset" type="button">Azzera la memoria delle domande uscite</button>
+        </div>
+
+        <div class="panel" id="titlePanel" hidden>
+          <label class="lbl" for="quizTitle">Titolo del quiz</label>
+          <input class="input" id="quizTitle" maxlength="80" placeholder="Per esempio: Ripasso della lezione">
+        </div>
+      </div>
+
+      <div class="panel">
+        <h2>Impostazioni</h2>
+        <div id="setupSettings"></div>
+        <p class="err" id="setupErr" role="alert" hidden></p>
+        <button class="btn btn-primary btn-lg btn-block" id="createBtn" type="button" disabled>Crea la stanza</button>
+      </div>
+    </div>
+  </section>
+
+  <!-- Sala d'attesa -->
+  <section data-hview="lobby" hidden>
+    <div class="h-lobby">
+      <div class="panel qrbox">
+        <img id="qrImg" alt="QR code per entrare nel quiz" width="380" height="380">
+        <p class="join-url" id="joinHost"></p>
+        <p class="muted" style="margin:0">Codice della stanza</p>
+        <div class="join-code" id="joinCode"></div>
+        <div class="row-btns">
+          <a class="btn" id="waBtn" target="_blank" rel="noopener">Invia su WhatsApp</a>
+          <button class="btn" id="copyBtn" type="button">Copia il link</button>
+        </div>
+      </div>
+      <div class="stack">
+        <div class="panel">
+          <div class="lobby-head">
+            <h2 style="margin:0">Hanno già fatto l’accesso</h2>
+            <span class="big-count" id="lobbyCount">0</span>
+          </div>
+          <div class="chips" id="lobbyChips" style="margin-top:16px"></div>
+          <p class="empty" id="lobbyEmpty">Nessuno è ancora entrato. Mostra il QR code o manda il link.</p>
+        </div>
+        <div class="panel">
+          <h2 id="lobbyQuizTitle"></h2>
+          <p class="summary" id="lobbySummary"></p>
+          <div class="row-btns" style="justify-content:flex-start;margin-top:0">
+            <button class="btn btn-primary btn-lg" id="startBtn" type="button">Avvia il quiz</button>
+            <button class="btn" id="lobbySettingsBtn" type="button">Impostazioni</button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Domanda / correzione -->
+  <section data-hview="play" id="view-play" hidden>
+    <div class="h-q">
+      <div class="q-main">
+        <div class="q-meta">
+          <span id="qHead"></span>
+          <span class="h-timer only-question" id="qCountdown"></span>
+        </div>
+        <div class="timerbar only-question" id="hTimerWrap"><i id="hTimerFill"></i></div>
+        <h1 class="q-text" id="qText"></h1>
+        <div class="blocks" id="blocks"></div>
+        <p class="correct-line only-reveal" id="correctLine"></p>
+      </div>
+      <aside class="side">
+        <div class="panel only-question">
+          <h2>Hanno risposto <span id="ansNum"></span></h2>
+          <div class="chips" id="tracker"></div>
+        </div>
+        <div class="panel only-reveal">
+          <h2>Classifica provvisoria</h2>
+          <ol class="toplist" id="topList"></ol>
+          <button class="btn btn-quiet btn-block" id="fullLbBtn" type="button">Vedi tutti</button>
+        </div>
+        <button class="btn btn-primary btn-lg only-question" id="lockBtn" type="button">Blocca le risposte</button>
+        <button class="btn btn-primary btn-lg only-reveal" id="nextBtn" type="button">Domanda successiva</button>
+        <button class="btn btn-quiet only-reveal" id="playSettingsBtn" type="button">Impostazioni</button>
+      </aside>
+    </div>
+  </section>
+
+  <!-- Risultati finali -->
+  <section data-hview="final" hidden>
+    <h1>Quiz finito</h1>
+    <div class="podium" id="podium"></div>
+    <div class="h-final">
+      <div class="panel">
+        <h2>Classifica finale</h2>
+        <table class="tbl" id="finalTable"></table>
+      </div>
+      <div class="panel">
+        <h2>Risposte giuste per domanda</h2>
+        <table class="tbl" id="statsTable"></table>
+      </div>
+    </div>
+    <div class="final-actions">
+      <button class="btn btn-primary btn-lg" id="csvBtn" type="button">Scarica i risultati (Excel)</button>
+      <button class="btn" id="restartBtn" type="button">Rifai il quiz con gli stessi studenti</button>
+      <button class="btn btn-quiet" id="closeBtn" type="button">Chiudi la stanza e ricomincia</button>
+    </div>
+  </section>
+
+</main>
+
+<dialog id="lbDialog">
+  <div class="dlg-head"><h2>Classifica</h2><button class="btn" id="lbClose" type="button">Chiudi</button></div>
+  <table class="tbl" id="lbTable"></table>
+</dialog>
+
+<dialog id="settingsDialog">
+  <div class="dlg-head"><h2>Impostazioni</h2><button class="btn btn-primary" id="settingsClose" type="button">Fatto</button></div>
+  <div id="dialogSettings"></div>
+  <p class="hint">Le modifiche valgono dalla prossima domanda.</p>
+</dialog>
+
+<template id="settingsTpl">
+  <fieldset class="set-group">
+    <legend>Risposte sul telefono degli studenti</legend>
+    <div class="seg">
+      <label><input type="radio" data-k="showOptions" value="1" checked><span>Lettere e testo</span></label>
+      <label><input type="radio" data-k="showOptions" value="0"><span>Solo lettere A B C D</span></label>
+    </div>
+    <p class="hint" data-hint="showOptions"></p>
+  </fieldset>
+  <fieldset class="set-group">
+    <legend>Tempo per rispondere</legend>
+    <div class="seg">
+      <label><input type="radio" data-k="mode" value="timed" checked><span>Tempo limite</span></label>
+      <label><input type="radio" data-k="mode" value="wait"><span>Si aspettano tutti</span></label>
+    </div>
+    <div class="inline-row" data-timerow>
+      <label for="">Secondi per domanda</label>
+      <select class="input" data-k="timeLimit">
+        <option>10</option><option>15</option><option selected>20</option><option>30</option>
+        <option>45</option><option>60</option><option>90</option><option>120</option>
+      </select>
+    </div>
+    <p class="hint" data-hint="mode"></p>
+  </fieldset>
+  <fieldset class="set-group">
+    <legend>Punteggio</legend>
+    <label class="switch"><input type="checkbox" data-k="speedBonus" checked><span class="track"></span><span>Più punti a chi risponde prima</span></label>
+    <p class="hint" data-hint="speed"></p>
+  </fieldset>
+  <fieldset class="set-group">
+    <legend>Ordine delle domande</legend>
+    <label class="switch"><input type="checkbox" data-k="shuffleQuestions"><span class="track"></span><span>Mescola le domande</span></label>
+  </fieldset>
+</template>
+
+<script src="config.js"></script>
+<script src="vendor/peerjs.min.js"></script>
+<script src="vendor/qrcode-generator.js"></script>
+<script src="parser.js"></script>
+<script src="engine.js"></script>
+<script src="common.js"></script>
+<script src="p2p.js"></script>
+<script src="host.js"></script>
+</body>
+</html>

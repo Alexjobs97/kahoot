@@ -1,0 +1,37 @@
+# Quiz di prova
+
+17) Qual è la capitale d'Italia?
+a. Roma
+b. Milano
+c. Napoli
+d. Torino
+
+17) Quanti lati ha un esagono?
+a. Sei
+b. Cinque
+c. Otto
+d. Dieci
+
+17) Quale pianeta è il più vicino al Sole?
+a. Mercurio
+b. Venere
+c. Marte
+d. Giove
+
+17) In quale anno è caduto il Muro di Berlino?
+a. 1989
+b. 1979
+c. 1991
+d. 1969
+
+17) Qual è la formula chimica dell'acqua?
+a. H2O
+b. CO2
+c. O2
+d. NaCl
+
+17) Chi ha dipinto la Gioconda?
+a. Leonardo da Vinci
+b. Michelangelo
+c. Raffaello
+d. Caravaggio

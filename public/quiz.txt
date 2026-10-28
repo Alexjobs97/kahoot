@@ -1,0 +1,176 @@
+# Quiz di ripasso
+
+# ESEMPIO: questo è l'archivio predefinito del sito. Sostituisci questo file con il tuo quiz.txt.
+# Formato: il numero prima di ")" è la categoria (più categorie separate da "/", per esempio 3/12/15).
+# 1 Traumatico · 2 Cardiocircolatorio · 3 Respiratorio · 4 Neurologico · 5 Psichiatrico · 6 Neoplastico
+# 7 Intossicazione · 8 Metabolico · 9 Gastroenterologico · 10 Urologico · 11 Oculistico
+# 12 Otorinolaringoiatrico · 13 Dermatologico · 14 Ostetrico-ginecologico · 15 Infettivo · 16 Pediatrico · 17 Altro
+# La risposta "a." è sempre quella giusta: sullo schermo l'ordine viene mescolato.
+
+1) Nella valutazione primaria ABCDE di un traumatizzato, qual è il primo passo?
+a. Controllo della pervietà delle vie aeree con protezione del rachide cervicale
+b. Controllo del polso radiale
+c. Misurazione della glicemia
+d. Esposizione completa del paziente
+
+1) Qual è la prima misura per controllare un'emorragia esterna massiva di un arto?
+a. Compressione diretta sulla ferita
+b. Applicazione di ghiaccio
+c. Lavaggio abbondante con acqua
+d. Sollevare l'arto e attendere
+
+1/2) Quale segno clinico è precoce nello shock emorragico?
+a. Tachicardia
+b. Bradicardia marcata
+c. Ipertensione arteriosa
+d. Cute calda e rosea
+
+2) Quale ritmo cardiaco richiede una defibrillazione immediata durante un arresto cardiaco?
+a. Fibrillazione ventricolare
+b. Asistolia
+c. Attività elettrica senza polso
+d. Bradicardia sinusale
+
+2) Qual è la frequenza raccomandata delle compressioni toraciche durante la rianimazione cardiopolmonare dell'adulto?
+a. 100-120 al minuto
+b. 60-80 al minuto
+c. 80-100 al minuto
+d. 140-160 al minuto
+
+2/17) Qual è l'unità di misura della pressione arteriosa?
+a. mmHg
+b. mg/dl
+c. L/min
+d. bpm
+
+3/13) Quale farmaco è di prima scelta nell'anafilassi?
+a. Adrenalina per via intramuscolare
+b. Antistaminico per via orale
+c. Cortisone per via orale
+d. Salbutamolo per via inalatoria
+
+3) Quale reperto auscultatorio è tipico dell'asma bronchiale in fase acuta?
+a. Sibili espiratori diffusi
+b. Crepitii inspiratori fini bibasali
+c. Sfregamenti pleurici
+d. Soffio anforico
+
+3/16) Quale manovra si usa per l'ostruzione delle vie aeree da corpo estraneo in un lattante cosciente?
+a. Colpi interscapolari alternati a compressioni toraciche
+b. Manovra di Heimlich con compressioni addominali
+c. Estrazione alla cieca con le dita
+d. Iperestensione del capo e ventilazioni
+
+4) Che cosa valuta la scala di Glasgow (GCS)?
+a. Il livello di coscienza
+b. L'intensità del dolore
+c. Il rischio di trombosi
+d. L'estensione di una ustione
+
+4) Quale sintomo è tipico dell'ictus ischemico acuto?
+a. Improvvisa debolezza di un lato del corpo
+b. Dolore toracico oppressivo irradiato al braccio
+c. Tosse produttiva persistente
+d. Dolore addominale a barra
+
+4/15) Quale quadro è caratteristico della meningite batterica?
+a. Febbre, cefalea e rigidità nucale
+b. Tosse abbaiante e stridore
+c. Tremore a riposo e bradicinesia
+d. Dolore addominale e diarrea
+
+5) Come si definisce un'allucinazione?
+a. Percezione in assenza di uno stimolo esterno corrispondente
+b. Convinzione falsa e non modificabile
+c. Alterazione persistente dell'umore
+d. Perdita improvvisa della memoria
+
+6) Come si chiama la diffusione di cellule tumorali a distanza dalla sede d'origine?
+a. Metastasi
+b. Displasia
+c. Ipertrofia
+d. Metaplasia
+
+7) Qual è l'antidoto dell'intossicazione da paracetamolo?
+a. N-acetilcisteina
+b. Naloxone
+c. Flumazenil
+d. Atropina
+
+7) Qual è l'antidoto per la depressione respiratoria da oppioidi?
+a. Naloxone
+b. Flumazenil
+c. N-acetilcisteina
+d. Protamina
+
+8) Quale valore di glicemia definisce convenzionalmente l'ipoglicemia?
+a. Inferiore a 70 mg/dl
+b. Tra 100 e 120 mg/dl
+c. Superiore a 140 mg/dl
+d. Superiore a 200 mg/dl
+
+8) Quale complicanza acuta è tipica del diabete di tipo 1 non trattato?
+a. Chetoacidosi diabetica
+b. Sindrome di Cushing
+c. Crisi tireotossica
+d. Rabdomiolisi
+
+9) Quale organo produce la bile?
+a. Il fegato
+b. La milza
+c. Il pancreas
+d. Lo stomaco
+
+9) Dove si localizza tipicamente il dolore nel punto di McBurney?
+a. Fossa iliaca destra
+b. Fossa iliaca sinistra
+c. Epigastrio
+d. Ipocondrio sinistro
+
+9/15) Qual è la principale via di trasmissione dell'epatite A?
+a. Oro-fecale
+b. Parenterale
+c. Respiratoria
+d. Vettoriale
+
+10) Quale sintomo è tipico della colica renale?
+a. Dolore lombare intenso a ondate irradiato verso l'inguine
+b. Dolore epigastrico dopo i pasti
+c. Dolore retrosternale da sforzo
+d. Dolore sordo alla spalla destra
+
+11) Quale struttura dell'occhio regola la quantità di luce che entra?
+a. L'iride, variando il diametro della pupilla
+b. La cornea
+c. La retina
+d. Il nervo ottico
+
+12) Qual è la prima manovra in caso di epistassi anteriore?
+a. Comprimere le narici con il capo inclinato in avanti
+b. Inclinare il capo all'indietro
+c. Sdraiare il paziente supino
+d. Introdurre garza in profondità nelle narici
+
+13) Come si chiama una lesione cutanea sollevata, piena di liquido e più grande di 1 cm?
+a. Bolla
+b. Vescicola
+c. Pomfo
+d. Macchia
+
+14) Quanto dura in media una gravidanza a termine?
+a. 40 settimane dall'ultima mestruazione
+b. 32 settimane
+c. 36 settimane
+d. 44 settimane
+
+14) Come si chiama la condizione con ipertensione e proteinuria insorte dopo la 20ª settimana di gravidanza?
+a. Preeclampsia
+b. Placenta previa
+c. Diabete gestazionale
+d. Aborto spontaneo
+
+17) Quale tra questi è un parametro vitale?
+a. Frequenza respiratoria
+b. Gruppo sanguigno
+c. Altezza
+d. Colore degli occhi
