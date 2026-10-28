@@ -1,11 +1,818 @@
-# Quiz di ripasso
+17) Quale elemento distingue un MSAB da un MSB?
+a. La presenza a bordo di un infermiere, oltre ai volontari soccorritori
+b. La presenza a bordo di un medico, oltre ai volontari soccorritori
+c. L'impiego esclusivo per il trasporto di pazienti già stabilizzati
+d. L'assenza dei volontari soccorritori, sostituiti da personale dipendente
 
-# ESEMPIO: questo è l'archivio predefinito del sito. Sostituisci questo file con il tuo quiz.txt.
-# Formato: il numero prima di ")" è la categoria (più categorie separate da "/", per esempio 3/12/15).
-# 1 Traumatico · 2 Cardiocircolatorio · 3 Respiratorio · 4 Neurologico · 5 Psichiatrico · 6 Neoplastico
-# 7 Intossicazione · 8 Metabolico · 9 Gastroenterologico · 10 Urologico · 11 Oculistico
-# 12 Otorinolaringoiatrico · 13 Dermatologico · 14 Ostetrico-ginecologico · 15 Infettivo · 16 Pediatrico · 17 Altro
-# La risposta "a." è sempre quella giusta: sullo schermo l'ordine viene mescolato.
+17) Un volontario fuori servizio assiste a un malore improvviso in strada. Quale comportamento è coerente con l'art. 593 del codice penale?
+a. Prestare l'assistenza che è in grado di dare e/o avvisare immediatamente il 118
+b. Intervenire solo se indossa la divisa, per non rispondere di esercizio abusivo
+c. Evitare ogni intervento, perché non è in servizio e quindi non ha alcun obbligo
+d. Avvisare il 118 solo dopo aver verificato che nessun sanitario sia già presente
+
+17) Un paziente incosciente è in pericolo di vita, nessun familiare è presente e non è nota la sua volontà. Come si comporta il soccorritore?
+a. Presta le cure previste dai protocolli, sulla base dello stato di necessità e del consenso presunto
+b. Attende il consenso scritto di un familiare prima di iniziare qualsiasi manovra
+c. Si limita a vigilare sul paziente finché non arriva un medico a decidere
+d. Chiede l'autorizzazione del magistrato prima di agire
+
+17) Un soccorritore volontario commette un errore colposo che causa un danno al paziente. Quale affermazione è corretta?
+a. Può rispondere di lesioni personali colpose; il rispetto di protocolli e linee guida è rilevante nella valutazione
+b. Non può rispondere penalmente perché opera a titolo gratuito
+c. Risponde solo sul piano disciplinare interno all'associazione di appartenenza
+d. Risponde solo l'associazione, perché il volontario agisce per suo conto
+
+17) Qual è la funzione principale del codice di gravità assegnato dalla Centrale Operativa durante la chiamata?
+a. Stabilire le priorità e le risorse da inviare in base alla gravità presunta
+b. Stabilire la tariffa del servizio di soccorso da addebitare al paziente
+c. Segnalare al pronto soccorso la diagnosi definitiva del paziente
+d. Definire il tempo massimo consentito alla squadra per lasciare il luogo
+
+17) Quale elemento distingue un'emergenza da un'urgenza?
+a. Il rischio imminente di compromissione delle funzioni vitali
+b. L'intensità del dolore riferito dal paziente
+c. L'età del paziente coinvolto
+d. Il numero di persone presenti che chiedono aiuto
+
+7/3) Entrate in un locale chiuso e trovate una persona confusa con cefalea e nausea, accanto a un braciere acceso. Qual è l'azione prioritaria?
+a. Valutare il rischio per la squadra (possibile monossido di carbonio), arieggiare o uscire e allertare la Centrale
+b. Iniziare subito la valutazione ABCDE nel locale per non perdere tempo
+c. Misurare la saturazione sul posto e, se normale, escludere un'intossicazione
+d. Somministrare ossigeno ad alti flussi e restare nel locale durante la valutazione
+
+17) Perché la valutazione primaria segue l'ordine ABCDE?
+a. Perché le condizioni che minacciano più rapidamente la vita vanno ricercate e trattate per prime
+b. Perché ogni lettera corrisponde a un distretto da esaminare dall'alto verso il basso
+c. Perché l'ordine alfabetico riduce il rischio di dimenticare una fase
+d. Perché le fasi si valutano in ordine di facilità di esecuzione
+
+17) Un paziente non risponde alla voce ma ritrae la mano quando si applica uno stimolo doloroso. Quale livello AVPU si attribuisce?
+a. P
+b. U
+c. V
+d. A
+
+3) Dopo aver aperto le vie aeree, un adulto respira 8 atti al minuto, superficiali. Qual è la valutazione e l'azione più corretta?
+a. Respiro inefficace: assistere con ventilazione e ossigeno secondo protocollo, chiedendo supporto avanzato
+b. Respiro presente e quindi valido: somministrare ossigeno con cannule nasali e proseguire
+c. Respiro lento ma regolare, tipico di un paziente a riposo: rivalutare tra 15 minuti
+d. Respiro conservato: passare alla valutazione della circolazione senza interventi
+
+2) Quale dei seguenti elementi si valuta nella fase C della valutazione primaria?
+a. Polso, colorito e temperatura cutanea, tempo di riempimento capillare
+b. Stato di coscienza secondo la scala AVPU e reattività pupillare
+c. Frequenza respiratoria e rumori respiratori
+d. Esposizione del paziente e protezione dal freddo
+
+3) Un paziente cosciente risponde regolarmente alle domande. Cosa si può affermare su A e B?
+a. Le vie aeree sono pervie in quel momento, ma la respirazione va comunque valutata
+b. Vie aeree e respirazione sono sicuramente nella norma e non servono altre verifiche
+c. La respirazione è normale, mentre per le vie aeree serve comunque una verifica
+d. Entrambe sono nella norma e non andranno più rivalutate durante l'intervento
+
+17) Cosa indaga la lettera L del SAMPLE?
+a. L'ultima assunzione di cibo o liquidi, con il relativo orario
+b. L'ultimo episodio di sintomi simili a quello attuale
+c. L'ultimo ricovero ospedaliero con le relative date
+d. L'ultima assunzione di farmaci con il relativo orario
+
+2) Un paziente è ipoteso ma ha FC 60 e assume betabloccanti. Quale considerazione è corretta?
+a. Il farmaco può mascherare la tachicardia compensatoria, quindi una FC normale non esclude uno shock
+b. La FC bassa esclude una riduzione del volume circolante
+c. I betabloccanti provocano sempre ipotensione, che quindi non ha valore clinico
+d. La FC va ignorata e ci si deve basare solo sul colorito cutaneo
+
+17) Qual è un obiettivo della valutazione secondaria?
+a. Raccogliere ulteriori informazioni cliniche senza ritardare il trasporto di un paziente critico
+b. Sostituire la valutazione primaria quando la situazione è tranquilla
+c. Stabilire autonomamente l'ospedale di destinazione senza contattare la Centrale
+d. Documentare gli eventi sulla scheda prima di iniziare il trattamento
+
+17) Con quale frequenza si rivalutano le condizioni di un paziente critico e instabile durante il trasporto?
+a. Frequentemente, ripetendo ABCDE e parametri indicativamente ogni 5 minuti
+b. Ogni 30 minuti, per non interferire con le cure
+c. Una sola volta all'arrivo in pronto soccorso
+d. Solo quando il paziente riferisce un peggioramento
+
+3) Quale combinazione di segni è più suggestiva di insufficienza respiratoria grave in un adulto?
+a. Tachipnea, uso dei muscoli accessori, difficoltà a parlare a frasi complete, SpO2 ridotta
+b. Respiro lento e regolare, parola fluida, SpO2 ridotta
+c. FR di 14 atti al minuto, SpO2 del 99%, colorito roseo
+d. Respiro profondo e rilassato, posizione supina tollerata, presenza di rumori
+
+3) Un paziente con asma grave, molto affannato, diventa all'improvviso più tranquillo e il respiro è quasi silenzioso. Come si interpreta?
+a. Possibile esaurimento con torace silente: è un segno di peggioramento grave
+b. Miglioramento clinico: la crisi sta regredendo
+c. Effetto dell'ossigeno, che sta riducendo l'ansia
+d. Segno di fine della crisi, da confermare con una nuova misurazione della SpO2
+
+7/3) Un paziente con sospetta intossicazione da monossido di carbonio ha SpO2 del 98%. Cosa si può dire?
+a. Non esclude l'ipossia tissutale, perché il saturimetro non distingue la carbossiemoglobina
+b. Il valore esclude l'intossicazione e l'ossigeno non è necessario
+c. Il valore è falsamente basso e va ricontrollato su un altro dito
+d. Il valore indica che il monossido è già stato eliminato
+
+3) Quale situazione rende meno affidabile la lettura del saturimetro?
+a. Ipoperfusione periferica con mani fredde
+b. Paziente in posizione seduta
+c. Misurazione sul dito della mano destra anziché della sinistra
+d. Misurazione effettuata al mattino
+
+3) Quale posizione è più indicata per un paziente cosciente con edema polmonare acuto e pressione arteriosa conservata?
+a. Seduto o semiseduto, con le gambe pendenti
+b. Supino, con le gambe sollevate
+c. Prono, per facilitare il drenaggio delle secrezioni
+d. Laterale di sicurezza sul lato sinistro
+
+3/2) Qual è il meccanismo dell'edema polmonare acuto cardiogeno?
+a. Il cuore non smaltisce il sangue proveniente dai polmoni, il circolo polmonare si congestiona e il liquido passa negli alveoli
+b. Le pareti dei bronchi si restringono per uno spasmo della muscolatura liscia
+c. Un'infezione riempie gli alveoli di materiale purulento
+d. Un'ostruzione della laringe impedisce il passaggio dell'aria
+
+3) Quale elemento orienta maggiormente verso un'asma rispetto a una BPCO?
+a. Giovane età, crisi episodica scatenata da allergeni o sforzo, quadro reversibile
+b. Storia di fumo da molti anni con tosse cronica produttiva
+c. Insorgenza dei sintomi dopo i 60 anni con peggioramento progressivo
+d. Dispnea persistente anche a riposo da mesi, con scarsa variabilità
+
+3) Un paziente con BPCO nota ha SpO2 84% e FR 26. Qual è l'approccio più corretto?
+a. Somministrare ossigeno titolato verso un obiettivo di 88-92%, rivalutando spesso
+b. Non somministrare ossigeno, per il rischio di ridurre lo stimolo respiratorio
+c. Somministrare ossigeno al massimo flusso fino a raggiungere il 100%
+d. Attendere che la saturazione scenda sotto 80% prima di somministrare ossigeno
+
+3) Quale quadro è più tipico di un pneumotorace spontaneo?
+a. Giovane longilineo con dolore toracico pleurico a esordio improvviso, dispnea, respiro ridotto da un lato
+b. Anziano ipertensivo con dolore oppressivo irradiato al braccio e sudorazione
+c. Bambino con tosse abbaiante, stridore e febbre
+d. Donna ansiosa con formicolii alle mani e respiro rapido e profondo
+
+3) Un uomo di 25 anni ansioso sta iperventilando. Quale comportamento è da evitare?
+a. Attribuire il quadro all'ansia senza escludere cause organiche (ipossia, dolore toracico, embolia)
+b. Rassicurarlo e guidarlo verso un respiro lento
+c. Allontanarlo, se possibile, dalla situazione che lo agita
+d. Misurare saturazione e parametri vitali
+
+3) Qual è la priorità nel soccorso a una persona recuperata dall'acqua, incosciente?
+a. Garantire l'ossigenazione: aprire le vie aeree e ventilare (iniziando con 5 ventilazioni), con ossigeno appena disponibile
+b. Eliminare l'acqua dai polmoni con compressioni sull'addome
+c. Metterla a testa in giù per far defluire l'acqua dalle vie aeree
+d. Iniziare con le sole compressioni toraciche, perché la ventilazione è inefficace
+
+3) Perché un paziente con SpO2 del 94% e nessun segno di distress non riceve ossigeno di routine?
+a. Perché l'ossigeno è un farmaco: si somministra quando indicato, con obiettivi di saturazione precisi
+b. Perché l'ossigeno è dannoso per i polmoni sani in qualsiasi quantità
+c. Perché le scorte di ossigeno sul mezzo sono limitate e vanno risparmiate
+d. Perché la saturazione normale esclude ogni altra alterazione respiratoria
+
+3) Perché la maschera con reservoir raggiunge concentrazioni di ossigeno più alte della maschera semplice?
+a. Perché il serbatoio accumula ossigeno e le valvole limitano il rientro dell'aria espirata e ambiente
+b. Perché eroga l'ossigeno a una pressione maggiore
+c. Perché contiene un filtro che arricchisce l'aria inspirata
+d. Perché aderisce meglio al viso e riduce la ventilazione necessaria
+
+3) Qual è il flusso minimo di ossigeno consigliato con la maschera semplice, per limitare il rischio di rirespirare anidride carbonica?
+a. Circa 5 litri al minuto
+b. Circa 1 litro al minuto
+c. Circa 2 litri al minuto
+d. Circa 3 litri al minuto
+
+3) Durante l'uso della maschera con reservoir, il serbatoio si sgonfia completamente a ogni inspirazione. Cosa indica?
+a. Il flusso è insufficiente rispetto alla richiesta del paziente e va aumentato
+b. Il funzionamento è normale e il flusso va mantenuto
+c. La maschera è di misura troppo grande
+d. La bombola è quasi piena e il flusso è eccessivo
+
+3/12) A quale flusso si collega l'ossigeno a un pallone Ambu con reservoir ?
+a. 10-15 litri al minuto
+b. 1-2 litri al minuto
+c. 3-5 litri al minuto
+d. Non va collegato all'ossigeno
+
+3/12) Quale segno indica che la ventilazione con pallone è efficace?
+a. Sollevamento del torace a ogni insufflazione, di entità normale
+b. Rumore di aria che fuoriesce dai lati della maschera
+c. Distensione progressiva dell'addome
+d. Il paziente non si lamenta
+
+3/12) Durante il posizionamento di una cannula di Guedel il paziente ha tosse e conati. Cosa indica?
+a. Sono presenti riflessi faringei: la cannula non è tollerata e va rimossa
+b. È una reazione normale e la cannula va mantenuta
+c. La cannula è troppo corta e va sostituita con una più grande
+d. La cannula è corretta e il paziente sta recuperando la coscienza
+
+3/12) Quale rischio comporta una cannula di Guedel troppo lunga?
+a. Può spingere l'epiglottide e ostruire le vie aeree
+b. Può causare una riduzione della frequenza respiratoria
+c. Può spostare la lingua verso il palato molle e provocare russamento
+d. Non comporta rischi, perché la lunghezza non influisce sull'efficacia
+
+3) Quale comportamento è corretto nell'uso di una bombola di ossigeno?
+a. Aprire lentamente la valvola, con raccordi puliti e privi di grasso, e fissare la bombola in modo stabile
+b. Aprire rapidamente la valvola per verificare subito la pressione
+c. Lubrificare i raccordi con un velo di grasso per facilitare l'avvitamento
+d. Appoggiare la bombola sul pavimento del mezzo senza fissarla, se il trasporto è breve
+
+2) Quale elemento del sangue forma per primo il tappo emostatico su una lesione di un vaso?
+a. Le piastrine
+b. I globuli rossi
+c. I globuli bianchi
+d. Il plasma
+
+2) Un paziente di gruppo A può ricevere globuli rossi di quale gruppo?
+a. A e 0
+b. A e B
+c. A e AB
+d. B e 0
+
+2) Quale valvola separa atrio sinistro e ventricolo destro?
+a. Nessuna
+b. La valvola tricuspide
+c. La valvola aortica
+d. La valvola mitrale
+
+2) Quali vasi portano il sangue ossigenato dai polmoni al cuore?
+a. Le vene polmonari
+b. L'arteria polmonare
+c. La vena cava superiore
+d. L'aorta
+
+2) Cosa avviene durante la diastole?
+a. Il cuore si rilassa e le camere si riempiono di sangue
+b. Il cuore si contrae e pompa il sangue verso le arterie
+c. Il cuore si rilassa e pompa il sangue verso le arterie
+d. Il cuore si contrae e le camere si riempiono di sangue
+
+2) Cosa comporta l'ostruzione completa di una coronaria?
+a. Ischemia e necrosi del miocardio irrorato da quel ramo
+b. Un'embolia polmonare con insufficienza respiratoria
+c. L'arresto immediato del nodo senoatriale in tutti i casi
+d. Un edema degli arti inferiori con riduzione della gittata
+
+2) Quale caratteristica appartiene alle vene?
+a. Parete più sottile, bassa pressione, presenza di valvole
+b. Parete spessa e muscolare, alta pressione, assenza di valvole
+c. Parete sottilissima, sede degli scambi con i tessuti
+d. Trasportano sempre sangue ossigenato verso la periferia
+
+2) In un paziente in shock, il polso radiale non è palpabile ma il carotideo sì. Cosa suggerisce?
+a. Una pressione arteriosa probabilmente molto bassa, con grave ipoperfusione
+b. Una pressione arteriosa normale con polso radiale non palpabile per errore
+c. Una pressione arteriosa elevata con vasocostrizione periferica
+d. Un dato non interpretabile, senza alcun significato clinico
+
+2) Quale valore di frequenza cardiaca a riposo è normale in un bambino di 6-10 anni?
+a. Circa 70-110 battiti al minuto
+b. Circa 40-60 battiti al minuto
+c. Circa 120-160 battiti al minuto
+d. Circa 140-180 battiti al minuto
+
+2) Un adulto ha PA 150/95 mmHg in tre misurazioni a riposo. Cosa indicano questi valori?
+a. Valori compatibili con ipertensione arteriosa
+b. Valori nella norma per un adulto a riposo
+c. Valori compatibili con ipotensione
+d. Valori non attendibili, da ignorare
+
+2) Perché l'ipertensione arteriosa cronica è un fattore di rischio importante?
+a. Danneggia le pareti delle arterie e sovraccarica il cuore, favorendo aterosclerosi, infarto, ictus e scompenso
+b. Riduce il volume di sangue circolante e provoca anemia progressiva
+c. Rende il sangue più fluido e aumenta il rischio di emorragie
+d. Riduce il lavoro del cuore e porta a bradicardia cronica
+
+2) Un paziente ha PA 210/115 e una forte cefalea, senza altri sintomi. Cosa è più corretto fare?
+a. Tenerlo a riposo, monitorarlo e informare la Centrale, senza tentare di abbassare la pressione di propria iniziativa
+b. Fargli assumere il farmaco antipertensivo di un familiare presente
+c. Metterlo supino con le gambe sollevate per ridurre la pressione cranica
+d. Somministrare ossigeno
+
+2) Quale tra questi fattori di rischio cardiovascolare non è modificabile?
+a. Età avanzata e familiarità per eventi cardiovascolari precoci
+b. Fumo di sigaretta
+c. Ipercolesterolemia
+d. Sedentarietà
+
+2) Quale caratteristica rende meno probabile, ma non esclude, un dolore toracico di origine cardiaca?
+a. Dolore puntorio, localizzabile con un dito, riproducibile alla palpazione
+b. Dolore oppressivo retrosternale che si irradia al braccio sinistro
+c. Dolore associato a sudorazione e senso di morte imminente
+d. Dolore comparso durante uno sforzo fisico
+
+2) In quali categorie di pazienti l'infarto si presenta più spesso con sintomi atipici (dispnea, nausea, dolore epigastrico, astenia)?
+a. Donne, anziani e diabetici
+b. Giovani maschi sportivi
+c. Bambini in età scolare
+d. Adulti senza alcun fattore di rischio
+
+2) Quale criterio è più utile sul campo per distinguere un'angina stabile da un possibile infarto?
+a. Dolore che persiste a riposo oltre 15-20 minuti o non regredisce con la terapia abituale
+b. Intensità del dolore riferita dal paziente su una scala da 1 a 10
+c. Sede del dolore, esclusivamente retrosternale
+d. Presenza di sudorazione, che compare solo nell'infarto
+
+2) Un paziente con angina nota chiede di assumere la sua nitroglicerina. Quale comportamento è corretto per il volontario?
+a. Informare la Centrale Operativa e agire secondo le sue indicazioni, controllando la pressione arteriosa se richiesto
+b. Fargli assumere più compresse in rapida successione per accelerare l'effetto
+c. Vietargli categoricamente di assumerla, in ogni circostanza
+d. Fargli assumere il farmaco di un altro paziente con la stessa patologia
+
+2) In quale tipo di shock la cute è tipicamente pallida, fredda e sudata?
+a. Shock ipovolemico e cardiogeno
+b. Shock settico in fase iniziale
+c. Shock anafilattico, con vasodilatazione e arrossamento
+d. Shock neurogeno, con vasodilatazione periferica
+
+2) Quale combinazione di parametri è più allarmante in un adulto?
+a. FC 130, PA 80/50, cute fredda e sudata, FR 28
+b. FC 70, PA 120/80, cute calda e asciutta, FR 14
+c. FC 95, PA 150/90, cute rosea, FR 16
+d. FC 60, PA 110/70, cute asciutta, FR 12
+
+2) Se il bracciale per la misurazione della pressione è troppo piccolo rispetto al braccio, come risulta il valore misurato?
+a. Falsamente elevato
+b. Falsamente basso
+c. Corretto
+d. Non misurabile
+
+2) Con il metodo auscultatorio, come si determina la pressione sistolica?
+a. Con il primo suono udito durante lo sgonfiaggio
+b. Con la scomparsa di tutti i suoni durante lo sgonfiaggio
+c. Con il valore medio tra il primo e l'ultimo suono udito
+d. Con il momento in cui il polso diventa visibile
+
+17) Cosa va annotato con l'orario sulla scheda 118?
+a. Ogni valutazione, parametro e trattamento, comprese le variazioni delle condizioni del paziente
+b. Solo la diagnosi finale formulata dal personale
+c. Solo il nominativo del paziente
+d. Solo l'ora di arrivo in ospedale
+
+17) Quale buona pratica riduce gli errori nelle comunicazioni radio?
+a. Ripetere i dati essenziali ricevuti per conferma
+b. Rispondere "ricevuto" senza ripetere i dati per non occupare il canale
+c. Attendere la conferma dell'interlocutore prima di ripetere qualsiasi dato
+d. Parlare rapidamente, per ridurre il tempo di occupazione del canale
+
+17) Come si usa correttamente il tasto PTT della radio?
+a. Premerlo, attendere un istante, parlare in modo chiaro e rilasciarlo al termine
+b. Tenerlo premuto per tutta la durata della conversazione
+c. Parlare e premere contemporaneamente per non perdere parole
+d. Premerlo alla fine del messaggio per inviarlo
+
+2/12) Durante una RCP di alta qualità, quale errore è più frequente e dannoso?
+a. Interrompere spesso le compressioni o non lasciare espandere completamente il torace
+b. Eseguire compressioni alla frequenza di 110 al minuto
+c. Comprimere a una profondità di 5-6 cm
+d. Alternare i soccorritori ogni 2 minuti circa
+
+2/12) Dopo l'erogazione di una scarica da parte del DAE, cosa si fa?
+a. Si riprendono subito le compressioni per 2 minuti, fino alla nuova analisi
+b. Si controlla il polso carotideo per 10 secondi prima di ripartire
+c. Si attende l'analisi successiva del DAE senza fare altro
+d. Si spegne il DAE e si valuta il paziente con ABCDE
+
+2/12) Quale precauzione è corretta prima di erogare la scarica con il DAE?
+a. Verificare che nessuno tocchi il paziente e allontanare maschera o pallone con ossigeno dal torace
+b. Verificare che il paziente sia ancora in posizione laterale
+c. Mantenere il contatto con il paziente per continuare le compressioni durante la scarica
+d. Bagnare il torace per migliorare il contatto delle piastre
+
+3) Come si distingue un'ostruzione parziale da una completa delle vie aeree in un adulto cosciente?
+a. Nella parziale il paziente tossisce e parla; nella completa non riesce a parlare, tossire né respirare
+b. Nella parziale il paziente non riesce a parlare ma respira; nella completa tossisce con forza
+c. Nella parziale c'è cianosi marcata; nella completa il colorito è normale
+d. Non si distinguono, perché il trattamento è sempre identico
+
+4) Una donna di 70 anni ha avuto un improvviso deficit di forza al braccio destro e difficoltà a parlare, risolti dopo 10 minuti. Cosa si fa?
+a. Si considera comunque un'emergenza (possibile TIA), si allerta la Centrale e si annota l'orario di esordio
+b. Non serve alcun intervento, perché i sintomi sono scomparsi
+c. Si consiglia una visita dal medico curante nei giorni successivi
+d. Si effettua solo un monitoraggio dei parametri senza informare la Centrale
+
+8) Un diabetico è confuso, sudato e tremante. Cosa è più importante verificare per primo?
+a. La glicemia capillare
+b. La pressione arteriosa
+c. La temperatura corporea
+d. La saturazione di ossigeno
+
+4) Quale situazione rende una crisi convulsiva un'emergenza immediata?
+a. Una crisi che dura oltre 5 minuti o crisi ripetute senza recupero della coscienza
+b. Una crisi con perdita di urina durante l'episodio
+c. Una crisi in cui compare un morso della lingua
+d. Una crisi in un paziente già noto per epilessia
+
+7) Quale combinazione suggerisce anafilassi dopo una puntura di insetto?
+a. Orticaria diffusa, gonfiore di labbra o lingua, difficoltà respiratoria e ipotensione
+b. Gonfiore e arrossamento limitati alla sede della puntura
+c. Dolore intenso e prurito locale senza altri sintomi
+d. Febbre e brividi comparsi dopo alcuni giorni dalla puntura
+
+17) Quale articolo del codice penale punisce l'omissione di soccorso?
+a. Art. 593
+b. Art. 328
+c. Art. 348
+d. Art. 622
+
+17) Quale dovere ha il soccorritore nei confronti dei dati sanitari del paziente?
+a. Mantenere la riservatezza e non divulgarli a persone non autorizzate
+b. Trasmetterli liberamente ai soccorritori di altre associazioni intervenuti sul posto per coordinamento
+c. Comunicarli ai famigliari di primo grado senza necessità di consenso esplicito del paziente
+d. Conservarne copia cartacea personale per tutelarsi da eventuali controversie legali
+
+17) Un volontario soccorritore può somministrare un farmaco di propria iniziativa?
+a. No, può farlo solo se previsto dai protocolli e autorizzato dalla Centrale Operativa
+b. Sì, a patto che si tratti di un farmaco sintomatico salvavita in dotazione al mezzo
+c. Sì, purché l'infermiere di Centrale Operativa dia un benestare generico per via telefonica
+d. No, a meno che il paziente non ne faccia esplicita richiesta scritta prima del trasporto
+
+17) Un paziente adulto, cosciente e lucido, rifiuta il trasporto in ospedale. Cosa è corretto fare?
+a. Informarlo sui rischi, contattare la Centrale Operativa e seguirne le indicazioni, documentando il rifiuto
+b. Far firmare la liberatoria a un parente presente per sollevare l'equipaggio da ogni responsabilità
+c. Richiedere l'intervento delle forze dell'ordine per eseguire un TSO (Trattamento Sanitario Obbligatorio)
+d. Ricevere l'autorizzazione telefonica dal medico curante del paziente prima di abbandonare il posto
+
+17) Quale caratteristica ha il trasporto sanitario ordinario?
+a. Riguarda pazienti stabili, con trasferimento programmato e senza pericolo di vita imminente
+b. Viene gestito esclusivamente tramite l'uso delle segnalazioni acustiche e luminose di emergenza
+c. Richiede obbligatoriamente la presenza a bordo di un medico o di un infermiere professionale
+d. Viene attivato direttamente dalle risorse territoriali del 118 senza previa prenotazione
+
+17) Nel trasporto di sangue o di organi per trapianto, quale aspetto è particolarmente critico?
+a. Il rispetto dei tempi e delle condizioni di conservazione indicate
+b. L'impiego costante e continuativo di presidi di ventilazione assistita a bordo
+c. La misurazione periodica della temperatura del contenitore mediante apertura diretta
+d. Il mantenimento del materiale a una temperatura di congelamento inferiore a -18°C
+
+17) Qual è la differenza tra ambulanza di tipo A e ambulanza di tipo B?
+a. La tipo A è destinata al soccorso di emergenza, la tipo B al trasporto di pazienti non critici
+b. La tipo A prevede la trazione integrale, la tipo B è riservata ai percorsi urbani
+c. La tipo A è per il trasporto extraurbano, la tipo B è attrezzata solo per la rianimazione pediatrica
+d. La tipo A deve contenere un DAE, la tipo B è dotata esclusivamente di aspiratore manuale
+
+17) Che cosa indica la sigla MSB?
+a. Mezzo di Soccorso di Base, con equipaggio di soccorritori formati e senza medico a bordo
+b. Mezzo Sanitario Brevettato, predisposto con presidi chirurgici d'emergenza
+c. Modulo di Soccorso Biologico, impiegato per il contenimento di agenti patogeni
+d. Mezzo di Soccorso Bivalente, impiegabile sia per emergenze che per trasporti disabili
+
+17) Quale caratteristica ha un MSA (Mezzo di Soccorso Avanzato)?
+a. Ha a bordo personale sanitario in grado di eseguire manovre e trattamenti avanzati
+b. È guidato da un autista con brevetto speciale di guida per interventi di maxiemergenza
+c. Interviene esclusivamente su chiamata diretta da parte del Pronto Soccorso Ospedaliero
+d. Transporta esclusivamente pazienti già stabilizzati che richiedono monitoraggio invasivo
+
+17) Quale affermazione sull'automedica è corretta?
+a. È un'auto con personale sanitario e attrezzature avanzate, che non trasporta il paziente
+b. È un mezzo sostitutivo dell'MSB impiegato nei trasferimenti interospedalieri urgenti
+c. È destinata al trasporto rapido di più pazienti traumatizzati lievi contemporaneamente
+d. Sostituisce l'intervento dell'elisoccorso in caso di avverse condizioni meteorologiche
+
+17) Cosa succede quando si chiama il 112 per un'emergenza sanitaria?
+a. L'operatore della centrale unica di risposta localizza la chiamata e la passa alla Centrale Operativa 118
+b. La chiamata viene inoltrata automaticamente e direttamente all'ambulanza più vicina sul territorio
+c. Risponde direttamente l'infermiere di triage del Pronto Soccorso dell'ospedale di riferimento
+d. L'operatore attiva istantaneamente l'uscita dell'automedica prima di registrare l'indirizzo
+
+17) Qual è la funzione della Centrale Operativa 118?
+a. Ricevere le richieste di soccorso sanitario, valutarne la gravità e inviare il mezzo più idoneo
+b. Fornire diagnosi mediche esaustive e prescrizioni farmacologiche al paziente al telefono
+c. Gestire e coordinare gli accessi e le liste d'attesa dei Pronto Soccorso della provincia
+d. Autorizzare i ricoveri programmati all'interno delle strutture sanitarie convenzionate
+
+17) Quali informazioni sono prioritarie in una chiamata di soccorso?
+a. Luogo esatto dell'evento, cosa è successo, numero e condizioni dei pazienti, recapito telefonico
+b. Nome del medico curante, presenza di esenzioni ticket e recapito dei famigliari
+c. Dinamica esatta del sinistro, copertura assicurativa e targhe dei veicoli coinvolti
+d. Anamnesi patologica remota dettagliata e consumo di alimenti nelle ultime 12 ore
+
+17) Cosa deve fare chi chiama il 118 al termine della segnalazione?
+a. Restare in linea finché l'operatore non indica di chiudere la comunicazione
+b. Riagganciare immediatamente per tenere la linea telefonica libera per i soccorritori
+c. Richiamare a intervalli di due minuti per aggiornare la posizione dei mezzi di soccorso
+d. Mettere in attesa la chiamata e contattare subito i famigliari dell'infortunato
+
+17) Qual è la differenza tra emergenza e urgenza?
+a. Nell'emergenza c'è pericolo immediato per la vita e serve un intervento immediato; nell'urgenza serve un intervento rapido ma non c'è pericolo di vita immediato
+b. L'emergenza riguarda solo eventi traumatici complessi, l'urgenza solo patologie mediche acute
+c. Nell'emergenza è sufficiente l'invio di un MSB, mentre l'urgenza richiede sempre l'intervento dell'MSA
+d. Nell'urgenza il tempo di intervento della prima ambulanza deve essere inferiore ai 5 minuti
+
+17) Cosa si intende per rischio evolutivo?
+a. La possibilità che la situazione peggiori nel tempo, anche in modo improvviso, aumentando i pericoli
+b. Il rischio che le condizioni meteorologiche alterino la dinamica dell'evento durante i soccorsi
+c. L'insorgenza di problematiche meccaniche al mezzo di soccorso durante il tragitto
+d. La probabilità che il paziente sviluppi complicanze infettive a seguito dell'intervento
+
+17) In quale ordine si valuta la sicurezza sulla scena?
+a. Propria, della squadra, dei presenti e infine del paziente
+b. Del paziente, propria, della squadra e infine dei presenti
+c. Della squadra, del paziente, propria e infine dei presenti
+d. Propria, del paziente, della squadra e infine dei presenti
+
+17) In cosa consiste l'anticipazione?
+a. Nel prevedere scenario, rischi e materiale necessario in base alle informazioni della Centrale, preparando DPI e squadra
+b. Nell'iniziare le manovre rianimatorie prima ancora di aver completato la valutazione del respiro
+c. Nel comunicare il codice di rientro alla Centrale prima dell'arrivo del mezzo sul posto
+d. Nel posizionare i presidi di immobilizzazione sul paziente prima di aver valutato l'ABCDE
+
+17) Quali elementi si valutano arrivando sulla scena?
+a. Sicurezza, dinamica dell'evento, numero di pazienti e necessità di risorse aggiuntive
+b. Parametri vitali del paziente, presenza di parenti e disponibilità di posti letto in ospedale
+c. Esatta traiettoria dei veicoli, presenza di telecamere e cause legali dell'incidente
+d. Condizioni del manto stradale, pressione dei pneumatici dell'ambulanza e orario di arrivo
+
+17) Cosa si valuta con la lettera A della valutazione primaria?
+a. La pervietà delle vie aeree
+b. L'adeguatezza della funzione respiratoria
+c. L'assenza di emorragie arteriose massive
+d. La presenza di allineamento della colonna vertebrale
+
+17) Cosa significa la sigla AVPU?
+a. Alert (vigile), Voice (risponde alla voce), Pain (risponde al dolore), Unresponsive (non risponde)
+b. Airway (vie aeree), Ventilation (ventilazione), Pulse (polso), Urgency (urgenza)
+c. Assessment (valutazione), Vitality (vitalità), Pressure (pressione), Unconsciousness (incoscienza)
+d. Awake (sveglio), Verbal (verbale), Paralyzed (paralizzato), Unconscious (inconscio)
+
+17) Cosa significa l'acronimo SAMPLE?
+a. Segni e sintomi, Allergie, Medicinali, Patologie pregresse, Last meal (ultimo pasto), Eventi che hanno preceduto
+b. Sicurezza, Anticipazione, Monitoraggio, Pervietà, Livello di coscienza, Esposizione
+c. Saturazione, Frequenza, Pressione, Lattati, Elettrocardiogramma
+d. Scena, Anamnesi, Medicazioni, Protesi, Lesioni, Emergenza
+
+17) Quando si esegue la valutazione secondaria?
+a. Dopo la valutazione primaria e dopo aver trattato gli eventuali problemi che minacciano la vita
+b. Durante il tragitto verso la scena del soccorso in base ai dati della Centrale
+c. Contemporaneamente alla valutazione A e B per ottimizzare i tempi
+d. Esclusivamente una volta giunti al Pronto Soccorso sotto la supervisione del medico
+
+17) Cosa si fa durante il trasporto del paziente?
+a. Si rivalutano e si monitorano periodicamente le condizioni e i parametri vitali
+b. Si completa la somministrazione della terapia farmacologica impostata a domicilio
+c. Si esegue una seconda valutazione SAMPLE completa ogni 3 minuti
+d. Si mantiene il paziente costantemente in posizione seduta per facilitare il respiro
+
+3) Qual è la funzione principale dell'apparato respiratorio?
+a. Lo scambio gassoso: introdurre ossigeno ed eliminare anidride carbonica
+b. Mantenere l'equilibrio elettrolitico e la pressione osmotica del sangue
+c. Regolare la temperatura corporea tramite l'eliminazione di vapore acqueo
+d. Filtrare le tossine ematiche e produrre bicarbonato
+
+3) Qual è il percorso corretto dell'aria inspirata?
+a. Naso o bocca, faringe, laringe, trachea, bronchi, bronchioli, alveoli
+b. Naso o bocca, laringe, faringe, trachea, bronchioli, bronchi, alveoli
+c. Naso o bocca, faringe, trachea, laringe, bronchi, alveoli, bronchioli
+d. Naso o bocca, laringe, trachea, faringe, bronchi, bronchioli, alveoli
+
+3) Qual è la composizione approssimativa dell'aria ambiente?
+a. Circa 21% di ossigeno, 78% di azoto, 0,04% di anidride carbonica
+b. Circa 16% di ossigeno, 79% di azoto, 4% di anidride carbonica
+c. Circa 30% di ossigeno, 68% di azoto, 1% di anidride carbonica
+d. Circa 21% di ossigeno, 21% di azoto, 57% di anidride carbonica
+
+3) Quale metodo si usa per valutare la respirazione?
+a. Guardare i movimenti del torace, ascoltare i rumori respiratori, sentire l'aria espirata (GAS)
+b. Verificare esclusivamente la saturazione di ossigeno mediante pulsiossimetro per 60 secondi
+c. Valutare la simmetria delle pupille e la risposta alla stimolazione dolorosa toracica
+d. Palpare le carotidi e contare il numero di contrazioni per 15 secondi
+
+3) Quale valore di frequenza respiratoria è considerato normale in un adulto a riposo?
+a. 12-20 atti al minuto
+b. 6-10 atti al minuto
+c. 22-30 atti al minuto
+d. 35-45 atti al minuto
+
+3) Quale rumore respiratorio è tipico dell'asma bronchiale?
+a. Sibili espiratori
+b. Rantoli inspiratori
+c. Stridore
+d. Gorgoglii
+
+3) Quale valore di saturazione (SpO2) è considerato normale in un adulto sano?
+a. 95-100%
+b. 88-92%
+c. 90-94%
+d. 100-105%
+
+3) Quali segni caratterizzano l'edema polmonare acuto?
+a. Difficoltà respiratoria intensa, respiro gorgogliante, possibile espettorato schiumoso e rosato
+b. Bradipnea severa, cianosi periferica e assenza totale di rumori all'auscultazione
+c. Dolore toracico acuto trafittivo che scompare in posizione supina
+d. Iperventilazione isolata e cute calda
+
+3) Come va somministrato l'ossigeno a un paziente con BPCO?
+a. Con cautela, regolando il flusso per mantenere una saturazione tra 88% e 92%
+b. Ad alti flussi tramite maschera con reservoir (12-15 l/min) in ogni caso
+c. Esclusivamente previa intubazione endotracheale o ventilazione CPAP
+d. A flussi elevati per brevi cicli intervallati da 5 minuti di aria ambiente
+
+3) Cos'è lo pneumotorace spontaneo?
+a. La presenza di aria nella cavità pleurica senza trauma, con collasso parziale o totale del polmone
+b. L'improvvisa rottura degli alveoli polmonari a causa di un'infezione batterica acuta
+c. L'accumulo di liquido sieroso nei bronchioli causato da uno sbalzo di pressione
+d. L'ostruzione completa di una branca dell'arteria polmonare da parte di un trombo
+
+3) Quali segni sono tipici dell'iperventilazione da ansia?
+a. Respiro rapido e profondo, formicolii alle mani e attorno alla bocca, rigidità delle mani
+b. Respiro profondo e lento, bradicardia, pupille miosi e ipotensione arteriosa
+c. Respiro irregolare alternato ad apnee prolungate e cianosi centrale
+d. Respiro stertoroso, perdita di coscienza e incontinenza sfinterica
+
+3) Qual è la conseguenza principale dell'annegamento?
+a. L'ipossia
+b. L'iperventilazione
+c. La grave dilatazione gastrica da ingestione di acqua
+d. L'emolisi da sovraccarico di fluidi
+
+3) Come va considerato l'ossigeno medicale?
+a. Come un farmaco, da somministrare secondo protocollo e indicazioni
+b. Come un elemento di primo soccorso integrativo liberamente gestibile dal soccorritore
+c. Come un gas comburente privo di controdindicazioni cliniche o effetti collaterali
+d. Come un supporto ventilatorio da utilizzare esclusivamente in presenza del medico
+
+3) In quali condizioni si somministra ossigeno ad alti flussi (10-15 litri al minuto)?
+a. Intossicazione da monossido di carbonio
+b. Iperventilazione psicogena con parestesie agli arti
+c. Crisi ipertensiva isolata senza segni di sofferenza d'organo
+d. Stato ansioso acuto con frequenza respiratoria nei limiti
+
+3) A cosa serve il flussimetro?
+a. A regolare la quantità di ossigeno erogata, espressa in litri al minuto
+b. A misurare la pressione interna della bombola espresso in bar
+c. A convertire l'ossigeno liquido nello stato gassoso per l'inalazione
+d. A segnalare acusticamente l'esaurimento imminente della bombola
+
+3) A cosa serve il gorgogliatore ?
+a. A umidificare l'ossigeno erogato al paziente
+b. A trattenere eventuali particelle impure presenti nella bombola
+c. A ridurre la pressione di erogazione dell'ossigeno ai bassi flussi
+d. A raffreddare l'ossigeno prima che raggiunga le vie aeree del paziente
+
+3) Con quali flussi si utilizzano le cannule nasali?
+a. Bassi flussi, da 1 a 6 litri al minuto
+b. Flussi intermedi, da 6 a 10 litri al minuto
+c. Alti flussi, da 10 a 15 litri al minuto
+d. Qualsiasi flusso, a condizione che il reservoir sia collegato
+
+3) Come si utilizza la maschera con reservoir?
+a. Con flusso di 10-15 litri al minuto, verificando che il reservoir resti gonfio
+b. Con flusso di 2-4 litri al minuto, lasciando il reservoir sgonfio per sicurezza
+c. Con flusso di 6-8 litri al minuto, scollegando la valvola unidirezionale
+d. Con flusso di 15-20 litri al minuto, riempiendo il reservoir con acqua sterile
+
+3) A cosa serve il pallone autoespansibile ?
+a. A ventilare un paziente con respiro assente o inefficace
+b. A somministrare ossigeno ad alti flussi a un paziente che respira spontaneamente
+c. Ad aspirare le secrezioni dai cavi orali e faringei
+d. A disostruire le vie aeree in un paziente incosciente
+
+3/12) Quando si utilizza la cannula orofaringea di Guedel?
+a. In un paziente incosciente, privo di riflessi faringei, per mantenere aperte le vie aeree
+b. In un paziente semicosciente che presenta trisma o crisi convulsiva in atto
+c. In tutti i pazienti affetti da ostruzione da corpo estraneo per facilitare le pacche
+d. In un paziente cosciente affetto da grave insufficienza respiratoria acuta
+
+3/12) Come si sceglie la misura corretta della cannula di Guedel?
+a. Misurandola dall'angolo della bocca all'angolo della mandibola
+b. Misurandola dalla punta del naso al lobo dell'orecchio del paziente
+c. Misurandola dall'incisivo centrale superiore al giugulo
+d. Misurandola dalla commissura labiale al centro del mento
+
+2) Qual è la funzione principale dei globuli rossi?
+a. Trasportare ossigeno legato all'emoglobina
+b. Neutralizzare tossine e batteri nel sangue
+c. Attivare la cascata della coagulazione ematica
+d. Produrre risposte anticorpali specifiche
+
+2) Quale gruppo sanguigno è considerato donatore universale per i globuli rossi?
+a. 0 negativo
+b. AB positivo
+c. 0 positivo
+d. AB negativo
+
+2) Quale camera del cuore spinge il sangue ossigenato verso tutto il corpo?
+a. Il ventricolo sinistro
+b. L'atrio destro
+c. Il ventricolo destro
+d. L'atrio sinistro
+
+2) Qual è la funzione delle arterie coronarie?
+a. Irrorare il muscolo cardiaco (miocardio) con sangue ossigenato
+b. Trasportare il sangue deossigenato dal cuore ai polmoni
+c. Regolare il passaggio di sangue tra l'atrio e il ventricolo sinistro
+d. Condurre il segnale elettrico dal nodo senoatriale alle pareti ventricolari
+
+2) Quale affermazione su arterie e vene è corretta?
+a. Le arterie portano il sangue dal cuore verso la periferia, le vene lo riportano al cuore
+b. Le arterie contengono sempre sangue ossigenato, le vene sempre sangue deossigenato
+c. Le arterie hanno pareti flaccide e valvole a nido d'ape, le vene hanno pareti spesse e elastiche
+d. Le arterie scorrono solo in superficie, mentre le vene sono unicamente profonde
+
+2) Quale valore di frequenza cardiaca è considerato normale in un adulto a riposo?
+a. 60-100 battiti al minuto
+b. 40-70 battiti al minuto
+c. 90-120 battiti al minuto
+d. 50-80 battiti al minuto
+
+2) Quale valore di pressione arteriosa è considerato normale in un adulto a riposo?
+a. Intorno a 120/80 mmHg
+b. Intorno a 140/95 mmHg
+c. Intorno a 100/50 mmHg
+d. Intorno a 110/90 mmHg
+
+2) Cosa suggerisce una cute pallida, fredda e sudata con polso rapido e debole?
+a. Una ridotta perfusione dei tessuti, possibile shock
+b. Una reazione vagale benigna in via di risoluzione
+c. Un'improvvisa crisi ipertermica o colpo di calore
+d. Un picco ipertensivo con forte resistenza vascolare
+
+2) Cos'è l'aterosclerosi?
+a. La formazione di placche di grasso e calcio nella parete delle arterie, che ne riducono il calibro
+b. La progressiva dilatazione patologica di un segmento arterioso ad alto rischio rottura
+c. L'infiammazione delle vene profonde con formazione di trombi ematici
+d. La perdita di elasticità dei muscoli cardiaci dovuta all'invecchiamento
+
+2) Quali caratteristiche ha il dolore toracico tipico di origine cardiaca?
+a. Oppressivo o costrittivo, retrosternale, può irradiarsi a braccia e mandibola, spesso con sudorazione
+b. Acuto e pungente, che aumenta marcatamente con l'inspirazione profonda o i colpi di tosse
+c. Superficiale, riproducibile alla palpazione della gabbia toracica e variabile con la postura
+d. Localizzato all'epigastrio che migliora subito dopo l'assunzione di liquidi o cibo
+
+2) Come si presenta l'angina stabile?
+a. Dolore toracico che compare per sforzo o stress e regredisce con il riposo o con la terapia in pochi minuti
+b. Dolore toracico prolungato a riposo che non risponde alla somministrazione di nitroderivati
+c. Dolore toracico con sopraslivellamento permanente del tratto ST registrato all'ECG
+d. Dolore toracico costante associato a febbre, tosse e sfregamenti pleurici
+
+2) Come si posiziona correttamente il bracciale per misurare la pressione arteriosa?
+a. Sul braccio nudo, all'altezza del cuore, 2-3 cm sopra la piega del gomito
+b. Indifferentemente sopra i vestiti purché l'adesivo sia ben stretto
+c. Esclusivamente sull'avambraccio con il palmo della mano rivolto verso il basso
+d. A livello dell'articolazione del polso mantenendo il braccio disteso lungo il fianco
+
+17) Quali sono i principali parametri vitali?
+a. Stato di coscienza, frequenza respiratoria, frequenza cardiaca, pressione arteriosa, saturazione, temperatura
+b. Riflesso pupillare, glicemia, scala del dolore, peso corporeo e diuresi
+c. Scala di Glasgow, reattività motoria, tempo di riempimento capillare, altezza e peso
+d. Stato di nutrizione, frequenza cardiaca, pressione venosa centrale e colore delle mucose
+
+17) Come va compilata la scheda 118?
+a. In modo chiaro, leggibile e veritiero, riportando dati, valutazioni, parametri e trattamenti eseguiti
+b. Compilando solo i campi relativi ai dati anagrafici lasciando la parte clinica al medico di Pronto Soccorso
+c. Utilizzando codici personalizzati e abbreviazioni informali condivise all'interno della propria associazione
+d. Omettendo i parametri vitali qualora siano stati rilevati solo verbalmente dall'equipaggio
+
+17) Quale comportamento è corretto nelle comunicazioni radio?
+a. Parlare in modo breve, chiaro e conciso, evitando di comunicare dati identificativi del paziente
+b. Trasmettere il nome, cognome e codice fiscale del paziente per velocizzare l'accettazione ospedaliera
+c. Tenere premuto il tasto PTT durante le pause di riflessione per mantenere occupato il canale riservato
+d. Utilizzare l'indicativo radio personale anziché quello assegnato al mezzo di soccorso
+
+12) Qual è la frequenza e la profondità corretta delle compressioni toraciche in un adulto in arresto cardiaco?
+a. 100-120 compressioni al minuto, profondità di 5-6 cm
+b. 80-100 compressioni al minuto, profondità di 3-4 cm
+c. 120-140 compressioni al minuto, profondità di 6-7 cm
+d. 60-80 compressioni al minuto, profondità di 4-5 cm
+
+12) Qual è il rapporto compressioni/ventilazioni nella rianimazione cardiopolmonare dell'adulto?
+a. 30 compressioni e 2 ventilazioni
+b. 15 compressioni e 2 ventilazioni
+c. 30 compressioni e 5 ventilazioni
+d. 50 compressioni e 2 ventilazioni
+
+12) In quale situazione si applica il DAE ?
+a. In una persona incosciente che non respira normalmente
+b. In una persona incosciente che presenta respiro di Kussmaul con polso presente
+c. In una persona cosciente che manifesta un attacco d'ansia grave con ipotensione
+d. In qualunque persona che abbia perso conoscenza, a prescindere dalla presenza del respiro
+
+12) Un adulto cosciente ha un'ostruzione completa delle vie aeree e non riesce a tossire. Cosa si fa?
+a. Si alternano 5 pacche interscapolari e 5 compressioni addominali
+b. Si eseguono subito 30 compressioni toraciche a paziente in piedi
+c. Si invita il paziente a piegarsi in avanti ed effettuare inspirazioni profonde
+d. Si somministrano 5 ventilazioni di soccorso bocca-bocca
+
+4) Quali segni valuta la scala di Cincinnati per il sospetto ictus?
+a. Asimmetria del volto, caduta di un braccio, alterazione della parola
+b. Deviazione oculare, rigidità nucale, perdita di forza alle gambe
+c. Diminuzione della visione, vertigini acute, tremore alle mani
+d. Formicolio agli arti, perdita di equilibrio, ipertensione severa
+
+8) Come si interviene in un diabetico cosciente con sospetta ipoglicemia?
+a. Se è in grado di deglutire, gli si dà dello zucchero (es. bevanda zuccherata) per bocca e si avvisa la Centrale Operativa
+b. Gli si somministra una fiala di glucagone per via orale
+c. Si attende l'arrivo dell'automedica per far somministrare soluzione fisiologica EV
+d. Si invita il paziente a fare attività fisica leggera per stimolare il rilascio di glucosio
+
+4) Come ci si comporta durante una crisi convulsiva?
+a. Si protegge la persona da urti allontanando gli oggetti pericolosi, senza trattenerla e senza mettere nulla in bocca
+b. Si inserisce un canula di Guedel a forza tra i denti per prevenire il soffocamento
+c. Si bloccano saldamente le braccia e le gambe per ridurre l'intensità delle contrazioni
+d. Si posiziona immediatamente il paziente in posizione laterale di sicurezza durante le scosse
+
+17) Quando si pone una persona in posizione laterale di sicurezza?
+a. Quando è incosciente ma respira normalmente e non c'è sospetto di trauma
+b. Quando il paziente è in arresto respiratorio isolato con polso presente
+c. Quando presenta una ferita penetrante all'addome ed è cosciente
+d. Quando si riscontra una sospetta frattura della pelvi o del femore con respiro presente
 
 1) Nella valutazione primaria ABCDE di un traumatizzato, qual è il primo passo?
 a. Controllo della pervietà delle vie aeree con protezione del rachide cervicale
@@ -19,19 +826,19 @@ b. Applicazione di ghiaccio
 c. Lavaggio abbondante con acqua
 d. Sollevare l'arto e attendere
 
-1/2) Quale segno clinico è precoce nello shock emorragico?
+2) Quale segno clinico è precoce nello shock emorragico?
 a. Tachicardia
 b. Bradicardia marcata
 c. Ipertensione arteriosa
 d. Cute calda e rosea
 
-2) Quale ritmo cardiaco richiede una defibrillazione immediata durante un arresto cardiaco?
+12) Quale ritmo cardiaco richiede una defibrillazione immediata durante un arresto cardiaco?
 a. Fibrillazione ventricolare
 b. Asistolia
 c. Attività elettrica senza polso
 d. Bradicardia sinusale
 
-2) Qual è la frequenza raccomandata delle compressioni toraciche durante la rianimazione cardiopolmonare dell'adulto?
+12) Qual è la frequenza raccomandata delle compressioni toraciche durante la rianimazione cardiopolmonare dell'adulto?
 a. 100-120 al minuto
 b. 60-80 al minuto
 c. 80-100 al minuto
@@ -55,7 +862,7 @@ b. Crepitii inspiratori fini bibasali
 c. Sfregamenti pleurici
 d. Soffio anforico
 
-3/16) Quale manovra si usa per l'ostruzione delle vie aeree da corpo estraneo in un lattante cosciente?
+3/16/12) Quale manovra si usa per l'ostruzione delle vie aeree da corpo estraneo in un lattante cosciente?
 a. Colpi interscapolari alternati a compressioni toraciche
 b. Manovra di Heimlich con compressioni addominali
 c. Estrazione alla cieca con le dita
@@ -91,18 +898,6 @@ b. Displasia
 c. Ipertrofia
 d. Metaplasia
 
-7) Qual è l'antidoto dell'intossicazione da paracetamolo?
-a. N-acetilcisteina
-b. Naloxone
-c. Flumazenil
-d. Atropina
-
-7) Qual è l'antidoto per la depressione respiratoria da oppioidi?
-a. Naloxone
-b. Flumazenil
-c. N-acetilcisteina
-d. Protamina
-
 8) Quale valore di glicemia definisce convenzionalmente l'ipoglicemia?
 a. Inferiore a 70 mg/dl
 b. Tra 100 e 120 mg/dl
@@ -121,12 +916,6 @@ b. La milza
 c. Il pancreas
 d. Lo stomaco
 
-9) Dove si localizza tipicamente il dolore nel punto di McBurney?
-a. Fossa iliaca destra
-b. Fossa iliaca sinistra
-c. Epigastrio
-d. Ipocondrio sinistro
-
 9/15) Qual è la principale via di trasmissione dell'epatite A?
 a. Oro-fecale
 b. Parenterale
@@ -140,7 +929,7 @@ c. Dolore retrosternale da sforzo
 d. Dolore sordo alla spalla destra
 
 11) Quale struttura dell'occhio regola la quantità di luce che entra?
-a. L'iride, variando il diametro della pupilla
+a. L'iride
 b. La cornea
 c. La retina
 d. Il nervo ottico
@@ -163,7 +952,7 @@ b. 32 settimane
 c. 36 settimane
 d. 44 settimane
 
-14) Come si chiama la condizione con ipertensione e proteinuria insorte dopo la 20ª settimana di gravidanza?
+14) Come si chiama la condizione con ipertensione insorta dopo la 20ª settimana di gravidanza?
 a. Preeclampsia
 b. Placenta previa
 c. Diabete gestazionale
